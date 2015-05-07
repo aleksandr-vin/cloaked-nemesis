@@ -13,3 +13,5 @@ Welcome to playground
 15:33:40.089 [main] INFO  Playground - main=running - Main func accomplished
 15:33:40.090 [main] ERROR Playground - main=running - About to shutdown
 ```
+
+*Note* that all log messages were enabled for MDC{i}=4.
