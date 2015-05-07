@@ -14,4 +14,4 @@ Welcome to playground
 15:33:40.090 [main] ERROR Playground - main=running - About to shutdown
 ```
 
-*Note* that all log messages were enabled for MDC{i}=4.
+**Note** that all log messages were enabled for MDC{i}=2.
